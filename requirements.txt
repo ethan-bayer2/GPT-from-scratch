@@ -1,0 +1,7 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+torch==2.5.0               # PyTorch for the model
+numpy>=1.24.2              # For array manipulation
+tensorboard>=2.14        # For tracking training logs (optional)
+tqdm>=4.64.1               # For progress bars during training
+matplotlib>=3.7          # For visualization (optional)

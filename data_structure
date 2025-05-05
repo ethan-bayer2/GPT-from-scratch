@@ -1,0 +1,29 @@
+GPT-from-scratch/
+│
+├── data/                # For data-related functions, e.g., tokenization
+│   ├── __init__.py      # To make it a package
+│   └── tokenizer.py     # Tokenization logic and any preprocessing
+│
+├── model/               # Core model components
+│   ├── __init__.py      # To make it a package
+│   ├── embedding.py     # Embedding layer
+│   ├── attention.py     # Self-attention layer
+│   ├── feed_forward.py  # Feed-forward layer (MLP)
+│   ├── transformer.py   # Combining layers (stacking the transformer blocks)
+│   └── gpt.py           # Final GPT architecture (stack of layers)
+│
+├── training/            # For training-related functions
+│   ├── __init__.py      # To make it a package
+│   ├── trainer.py       # Main training loop
+│   └── utils.py         # Helper functions (e.g., metrics, loss calculation)
+│
+├── tests/               # Unit tests for each component
+│   ├── __init__.py      # To make it a package
+│   ├── test_tokenizer.py
+│   ├── test_model.py    # Test model components (e.g., forward pass)
+│   └── test_training.py # Test training process (e.g., training step)
+│
+├── config.py            # Configuration file (e.g., hyperparameters)
+├── requirements.txt     # List of dependencies
+├── .gitignore           # Git ignore file
+└── README.md            # Project description
