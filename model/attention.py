@@ -78,4 +78,4 @@ class MultiHeadAttention(nn.Module):
         # Pass through final linear layer
         output = self.fc_out(output)
 
-        return output, attention_weights
+        return output
