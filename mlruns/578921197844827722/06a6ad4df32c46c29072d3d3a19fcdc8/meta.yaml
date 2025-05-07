@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ethan/Python/GPT-from-scratch/mlruns/578921197844827722/06a6ad4df32c46c29072d3d3a19fcdc8/artifacts
+end_time: 1746654518157
+entry_point_name: ''
+experiment_id: '578921197844827722'
+lifecycle_stage: active
+run_id: 06a6ad4df32c46c29072d3d3a19fcdc8
+run_name: fortunate-hog-354
+run_uuid: 06a6ad4df32c46c29072d3d3a19fcdc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746654517655
+status: 4
+tags: []
+user_id: ethan

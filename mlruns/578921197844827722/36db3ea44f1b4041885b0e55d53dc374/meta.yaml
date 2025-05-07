@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ethan/Python/GPT-from-scratch/mlruns/578921197844827722/36db3ea44f1b4041885b0e55d53dc374/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '578921197844827722'
+lifecycle_stage: active
+run_id: 36db3ea44f1b4041885b0e55d53dc374
+run_name: adorable-ox-115
+run_uuid: 36db3ea44f1b4041885b0e55d53dc374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746654939866
+status: 1
+tags: []
+user_id: ethan

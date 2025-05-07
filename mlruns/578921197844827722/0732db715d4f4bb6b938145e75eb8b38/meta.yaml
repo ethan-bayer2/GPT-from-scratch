@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ethan/Python/GPT-from-scratch/mlruns/578921197844827722/0732db715d4f4bb6b938145e75eb8b38/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '578921197844827722'
+lifecycle_stage: active
+run_id: 0732db715d4f4bb6b938145e75eb8b38
+run_name: serious-vole-504
+run_uuid: 0732db715d4f4bb6b938145e75eb8b38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746654707229
+status: 1
+tags: []
+user_id: ethan

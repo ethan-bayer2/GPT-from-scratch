@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ethan/Python/GPT-from-scratch/mlruns/578921197844827722/e691acad4a884859aa79dbd1b922ef9c/artifacts
+end_time: 1746654323231
+entry_point_name: ''
+experiment_id: '578921197844827722'
+lifecycle_stage: active
+run_id: e691acad4a884859aa79dbd1b922ef9c
+run_name: indecisive-fowl-929
+run_uuid: e691acad4a884859aa79dbd1b922ef9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746654320843
+status: 3
+tags: []
+user_id: ethan

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ethan/Python/GPT-from-scratch/mlruns/578921197844827722/6c5e9f8f30a741ce8d8602a72f28beef/artifacts
+end_time: 1746654979478
+entry_point_name: ''
+experiment_id: '578921197844827722'
+lifecycle_stage: active
+run_id: 6c5e9f8f30a741ce8d8602a72f28beef
+run_name: redolent-midge-923
+run_uuid: 6c5e9f8f30a741ce8d8602a72f28beef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746654977093
+status: 3
+tags: []
+user_id: ethan

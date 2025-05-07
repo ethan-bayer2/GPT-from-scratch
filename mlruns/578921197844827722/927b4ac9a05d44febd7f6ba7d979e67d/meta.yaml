@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ethan/Python/GPT-from-scratch/mlruns/578921197844827722/927b4ac9a05d44febd7f6ba7d979e67d/artifacts
+end_time: 1746654572353
+entry_point_name: ''
+experiment_id: '578921197844827722'
+lifecycle_stage: active
+run_id: 927b4ac9a05d44febd7f6ba7d979e67d
+run_name: illustrious-fly-600
+run_uuid: 927b4ac9a05d44febd7f6ba7d979e67d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746654571862
+status: 4
+tags: []
+user_id: ethan

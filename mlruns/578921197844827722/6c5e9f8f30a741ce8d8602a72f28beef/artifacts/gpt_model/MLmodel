@@ -1,0 +1,26 @@
+artifact_path: gpt_model
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.13.3
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.5.0+cu124
+mlflow_version: 2.22.0
+model_size_bytes: 92404
+model_uuid: 6a1adf1c61ae4e58bc1919a75226f6b5
+prompts: null
+run_id: 6c5e9f8f30a741ce8d8602a72f28beef
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: ndarray
+utc_time_created: '2025-05-07 21:56:17.589824'
