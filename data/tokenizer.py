@@ -7,6 +7,9 @@ class SimpleTokenizer:
                 i: ch for ch, i in self.token_to_id.items()
                 }  # Step 3
 
+    def __len__(self):
+        return len(self.vocab)
+
     def encode(self, text: str) -> list[int]:
         """Convert string into list of token IDs"""
         return [self.token_to_id[ch] for ch in text]
