@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ethan/Python/GPT-from-scratch/mlruns/958819987103851820/c5a15240463f4b45a764f5310b310a9d/artifacts
+end_time: 1747086867990
+entry_point_name: ''
+experiment_id: '958819987103851820'
+lifecycle_stage: active
+run_id: c5a15240463f4b45a764f5310b310a9d
+run_name: awesome-skunk-199
+run_uuid: c5a15240463f4b45a764f5310b310a9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747086676213
+status: 3
+tags: []
+user_id: ethan

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ethan/Python/GPT-from-scratch/mlruns/958819987103851820/961ea59ccfcc4f98ba2c2e5be22cc1e8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '958819987103851820'
+lifecycle_stage: active
+run_id: 961ea59ccfcc4f98ba2c2e5be22cc1e8
+run_name: gregarious-whale-668
+run_uuid: 961ea59ccfcc4f98ba2c2e5be22cc1e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747086548809
+status: 1
+tags: []
+user_id: ethan

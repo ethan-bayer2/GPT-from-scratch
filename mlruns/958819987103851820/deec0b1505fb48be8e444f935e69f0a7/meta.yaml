@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ethan/Python/GPT-from-scratch/mlruns/958819987103851820/deec0b1505fb48be8e444f935e69f0a7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '958819987103851820'
+lifecycle_stage: active
+run_id: deec0b1505fb48be8e444f935e69f0a7
+run_name: carefree-skink-415
+run_uuid: deec0b1505fb48be8e444f935e69f0a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747085266719
+status: 1
+tags: []
+user_id: ethan

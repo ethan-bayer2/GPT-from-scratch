@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ethan/Python/GPT-from-scratch/mlruns/958819987103851820/28901a1da3ed4ceabcef2c970ee3dba6/artifacts
+end_time: 1747086061239
+entry_point_name: ''
+experiment_id: '958819987103851820'
+lifecycle_stage: active
+run_id: 28901a1da3ed4ceabcef2c970ee3dba6
+run_name: intrigued-wren-697
+run_uuid: 28901a1da3ed4ceabcef2c970ee3dba6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747085925500
+status: 4
+tags: []
+user_id: ethan

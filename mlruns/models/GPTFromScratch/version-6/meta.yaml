@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747086867983
+current_stage: None
+description: null
+last_updated_timestamp: 1747086867983
+name: GPTFromScratch
+run_id: c5a15240463f4b45a764f5310b310a9d
+run_link: null
+source: file:///home/ethan/Python/GPT-from-scratch/mlruns/958819987103851820/c5a15240463f4b45a764f5310b310a9d/artifacts/gpt_model
+status: READY
+status_message: null
+storage_location: file:///home/ethan/Python/GPT-from-scratch/mlruns/958819987103851820/c5a15240463f4b45a764f5310b310a9d/artifacts/gpt_model
+user_id: null
+version: 6

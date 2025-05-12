@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ethan/Python/GPT-from-scratch/mlruns/578921197844827722/a3256acf9b0f4cf08a0e6e7bb999ed05/artifacts
+end_time: 1747082643150
+entry_point_name: ''
+experiment_id: '578921197844827722'
+lifecycle_stage: active
+run_id: a3256acf9b0f4cf08a0e6e7bb999ed05
+run_name: bedecked-stoat-29
+run_uuid: a3256acf9b0f4cf08a0e6e7bb999ed05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747082640267
+status: 3
+tags: []
+user_id: ethan
